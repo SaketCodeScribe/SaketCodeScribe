@@ -1,7 +1,9 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=saketcodescribe&label=Profile%20views&color=0e75b6&style=flat" alt="saketcodescribe" /> </p>
 <h1 align="center">Hi 👋, I'm Saket</h1>
+
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saketcodescribe&label=Profile%20views&color=0e75b6&style=flat" alt="saketcodescribe" /> </p>
+
 
 - 🔭 I’m currently working on **implementing microservices architecture**
 
@@ -31,4 +33,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SaketCodeScribe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SaketCodeScribe&icon=0&color=0)](https://visitcount.itsvg.in)
