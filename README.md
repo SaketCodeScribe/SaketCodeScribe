@@ -5,17 +5,16 @@
 
 
 
-- 🔭 I’m currently working on **implementing microservices architecture**
 
-- 🌱 I’m currently sharpening my DSA and System Design skills. Learning multithreading and asynchronous calls. Building Projects on Microservices.
+- 🌱 I’m currently sharpening my System Design skills. Learning conurrecny and event driven architecture.
 
-- 👯 My upcoming plans are to hone my skills in SQL and NoSQL. 
+- 👯 My upcoming plans are to hone my skills in Scalable and Distributed Architecture. 
 
-- 💬 Ask me about **Java, python, spring rest and mvc, and any general software development questions**
+- 💬 Ask me about **Java, Spring, Object-Oriented Design, System architecture, and any general software development questions**
 
 - 📫 How to reach me **saket.suman1309@gmail.com**
 
-- ⚡ Fun fact **Did you know that when I don't code, I like to travel and cook**
+- ⚡ Fun fact **Did you know that when I don't code, I like to travel, hitting the gym and cook**
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%23E34F26.svg?logo=gmail&logoColor=white)](mailto:saket.suman1309@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saket-suman-530549173/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iamnotsaket/)
