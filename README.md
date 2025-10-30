@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, python, spring rest and mvc, and any general software development questions**
 
-- 📫 How to reach me **saket.suman1309@gamil.com**
+- 📫 How to reach me **saket.suman1309@gmail.com**
 
 - ⚡ Fun fact **Did you know that when I don't code, I like to travel and cook**
 
